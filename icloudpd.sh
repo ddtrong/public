@@ -1,0 +1,1 @@
+icloudpd -d ~/ip --folder-structure album --all-albums --skip-smart-folders
