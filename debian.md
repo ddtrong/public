@@ -1,0 +1,1 @@
+rm /var/lib/apt/lists/deb.debian.org_debian_dists_bookworm_main_binary-amd64_Packages
